@@ -1,0 +1,4 @@
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\obj\Debug\netcoreapp3.1\CleanAech.Infa.Data.csprojAssemblyReference.cache
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\obj\Debug\netcoreapp3.1\CleanAech.Infa.Data.AssemblyInfoInputs.cache
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\obj\Debug\netcoreapp3.1\CleanAech.Infa.Data.AssemblyInfo.cs
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\obj\Debug\netcoreapp3.1\CleanAech.Infa.Data.csproj.CoreCompileInputs.cache

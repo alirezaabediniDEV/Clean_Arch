@@ -92,3 +92,7 @@ C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\o
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\CleanArch.Mvc.dll
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\CleanArch.Mvc.pdb
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\CleanArch.Mvc.genruntimeconfig.cache
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infa.Data.dll
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infa.Data.pdb
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb

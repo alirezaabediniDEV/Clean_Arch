@@ -1,0 +1,15 @@
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\bin\Debug\netcoreapp3.1\CleanArch.Infa.Data.deps.json
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\bin\Debug\netcoreapp3.1\CleanArch.Infa.Data.dll
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\bin\Debug\netcoreapp3.1\CleanArch.Infa.Data.pdb
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\obj\Debug\netcoreapp3.1\CleanArch.Infa.Data.csprojAssemblyReference.cache
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\obj\Debug\netcoreapp3.1\CleanArch.Infa.Data.AssemblyInfoInputs.cache
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\obj\Debug\netcoreapp3.1\CleanArch.Infa.Data.AssemblyInfo.cs
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\obj\Debug\netcoreapp3.1\CleanArch.Infa.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\obj\Debug\netcoreapp3.1\CleanArch.Infa.Data.csproj.CopyComplete
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\obj\Debug\netcoreapp3.1\CleanArch.Infa.Data.dll
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\obj\Debug\netcoreapp3.1\CleanArch.Infa.Data.pdb
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\bin\Debug\netcoreapp3.1\CleanArch.Infa.Data.runtimeconfig.json
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\bin\Debug\netcoreapp3.1\CleanArch.Infa.Data.runtimeconfig.dev.json
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanAech.Infa.Data\obj\Debug\netcoreapp3.1\CleanArch.Infa.Data.genruntimeconfig.cache
