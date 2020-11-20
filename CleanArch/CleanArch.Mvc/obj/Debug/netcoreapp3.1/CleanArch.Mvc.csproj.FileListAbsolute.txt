@@ -1,8 +1,5 @@
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
-C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Mvc.StaticWebAssets.xml
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Mvc.exe
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Mvc.deps.json
@@ -96,3 +93,4 @@ C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\b
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infa.Data.dll
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infa.Data.pdb
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\CleanArch.Mvc.styles.css
