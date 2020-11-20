@@ -20,5 +20,10 @@ namespace CleanArch.Infa.Data.Repository
         {
             return _context.Courses;
         }
+
+        public Course GetCourseById(int courseId)
+        {
+            return _context.Courses.Find(courseId);
+        }
     }
 }
