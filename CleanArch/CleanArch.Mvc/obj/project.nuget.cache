@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6JTYKRFpo07anr6M58w4N3ZMvWXD21ODeTGGVc9Jlpvf5Ou+ahXPXb930knb50mSPpNoA86i0DQXBKamAaUsnA==",
+  "dgSpecHash": "jA+EQA52zGTz5t2v8NoHqf2EoSz2tY9p/PvWG/3oyZA4mzhQZ92yXH5c4apu3RkCUfHwk8OOqFXVUtNPuzpJvQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alireza\\Documents\\GitHub\\CleanArch\\Clean_Arch\\CleanArch\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
   "expectedPackageFiles": [
@@ -25,8 +25,8 @@
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.9\\microsoft.extensions.configuration.binder.3.1.9.nupkg.sha512",
-    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.9\\microsoft.extensions.dependencyinjection.3.1.9.nupkg.sha512",
-    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.10\\microsoft.extensions.dependencyinjection.3.1.10.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.10\\microsoft.extensions.dependencyinjection.abstractions.3.1.10.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.9\\microsoft.extensions.fileproviders.abstractions.3.1.9.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\3.1.9\\microsoft.extensions.fileproviders.embedded.3.1.9.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.9\\microsoft.extensions.identity.core.3.1.9.nupkg.sha512",
