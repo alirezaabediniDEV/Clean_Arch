@@ -9,13 +9,18 @@ using CleanArch.Infa.Data.Migrations;
 
 namespace CleanArch.Infa.Data.Repository
 {
-    public class UserRepository:IUserRepository
+    public class UserRepository : IUserRepository
     {
         private UniversityDBContext _context;
 
         public UserRepository(UniversityDBContext context)
         {
             _context = context;
+        }
+
+        public bool IsExistUser(string email, string password)
+        {
+            return _context.Users.Any(u => u.Email == email && u.Password == password);
         }
 
         public void AddUser(User user)

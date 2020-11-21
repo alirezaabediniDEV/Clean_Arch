@@ -2,11 +2,14 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using CleanArch.Application.Interfaces;
 using CleanArch.Application.Security;
 using CleanArch.Application.ViewModels;
 using CleanArch.Domain.Models;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
 
 namespace CleanArch.Mvc.Controllers
 {
@@ -18,6 +21,8 @@ namespace CleanArch.Mvc.Controllers
         {
             _userService = userService;
         }
+
+        #region Register
 
         [Route("Register")]
         public IActionResult Register()
@@ -39,7 +44,7 @@ namespace CleanArch.Mvc.Controllers
                 ViewBag.Check = checkUser;
                 return View(register);
             }
-            Domain.Models.User user=new User()
+            User user=new User()
             {
                 Email = register.Email.Trim().ToLower(),
                 Password = PasswordHelper.EncodePasswordMd5(register.Password),
@@ -48,5 +53,60 @@ namespace CleanArch.Mvc.Controllers
             _userService.RegisterUser(user);
             return View("SuccessRegister",register);
         }
+
+        #endregion
+
+        #region Login
+
+        [Route("Login")]
+        public IActionResult Login(string ReturnUrl="")
+        {
+            ViewBag.Return = ReturnUrl;
+            return View();
+        }
+        [Route("Login")]
+        [HttpPost]
+        public IActionResult Login(LoginViewModel login, string ReturnUrl)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(login);
+            }
+
+            if (!_userService.IsExistUser(login.Email,login.Password))
+            {
+                ModelState.AddModelError("Email","User Not Found ...");
+            }
+
+
+            var claims = new List<Claim>()
+            {
+                new Claim(ClaimTypes.Name,login.Email),
+                new Claim(ClaimTypes.NameIdentifier,login.Email)
+            };
+            var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+            var principal = new ClaimsPrincipal(identity);
+            var properties = new AuthenticationProperties()
+            {
+                IsPersistent = login.RememberMe
+            };
+
+            HttpContext.SignInAsync(principal, properties);
+
+            return Redirect(ReturnUrl);
+
+        }
+
+        #endregion
+
+        #region Logout
+
+        public IActionResult Logout()
+        {
+            HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            return Redirect("/");
+        }
+
+        #endregion
     }
 }

@@ -174,3 +174,4 @@ C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\o
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Course\ShowCourse.cshtml.g.cs
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Account\SuccessRegister.cshtml.g.cs
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs

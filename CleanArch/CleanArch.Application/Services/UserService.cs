@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using CleanArch.Application.Interfaces;
+using CleanArch.Application.Security;
 using CleanArch.Application.ViewModels;
 using CleanArch.Domain.Interfaces;
 using CleanArch.Domain.Models;
@@ -45,6 +46,11 @@ namespace CleanArch.Application.Services
             _userRepository.AddUser(user);
             _userRepository.Save();
             return user.UserId;
+        }
+
+        public bool IsExistUser(string email, string password)
+        {
+            return _userRepository.IsExistUser(email.Trim().Trim(), PasswordHelper.EncodePasswordMd5(password));
         }
     }
 }
