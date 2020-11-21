@@ -172,3 +172,5 @@ C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\b
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infra.IoC.pdb
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
 C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Course\ShowCourse.cshtml.g.cs
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Alireza\Documents\GitHub\CleanArch\Clean_Arch\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Account\SuccessRegister.cshtml.g.cs
